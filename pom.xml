@@ -17,5 +17,5 @@
   </dependencies>
   <build>
     <finalName>CurrencyConverter</finalName>
-  </build>
+  </build> 
 </project>
